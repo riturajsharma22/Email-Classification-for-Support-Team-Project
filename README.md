@@ -95,7 +95,7 @@ print(response.text)
 
    * Uses a fine-tuned `TFDistilBertForSequenceClassification` model.
    * The model was trained using emails where all PII was already masked.
-   * Achieved **97.73% accuracy** on the validation set.
+   * Achieved **76.13% accuracy** on the validation set.
 
 ---
 
